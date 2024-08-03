@@ -1,7 +1,3 @@
-Sure, here's a README file for your GitHub repository:
-
----
-
 # Predicting the Biodegradability of Chemicals
 
 This repository contains the code and data used in the study "Predicting the Biodegradability of Chemicals from QSAR data" by Ameer S. H. Alwadiya. The research explores the application of supervised machine learning models to predict the biodegradability of chemicals using Quantitative Structure-Activity Relationship (QSAR) data. 
@@ -75,7 +71,3 @@ The Support Vector Classifier demonstrates the highest accuracy in predicting th
    jupyter notebook Predicting%20the%20Biodegradability%20of%20Chemicals.ipynb
    ```
 5. Run the notebook cells to execute the code and reproduce the results.
-
----
-
-Feel free to customize this README further to match the specifics of your project and repository structure.
